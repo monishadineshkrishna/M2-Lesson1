@@ -1,7 +1,7 @@
 
-
+#---------PART 1: Importing the keyword module------
 import keyword
-#print(keyword.kwlist)
+print(keyword.kwlist)
 
 person_name = input("Enter your name: ")
 goal_name = input("Enter one skill you want to get better at: ")
